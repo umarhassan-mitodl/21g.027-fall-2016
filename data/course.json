@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "legacy_uid": "551d90b8-67cf-2bd8-d9f4-f5058a231ac8",
+  "instructors": {
+    "content": [
+      "3ccc00a4-4a5a-8131-447b-f67c5d7e81f1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "84376a8b-d0f1-3cd0-7123-c96c6ae2c4b4",
+    "website": "21g-027-asia-in-the-modern-world-images-representations-fall-2016"
+  },
+  "course_title": "Asia in the Modern World: Images & Representations",
+  "course_description": "We will explore images that pertain to the emergence of Japan as a modern state. We will focus on images that depict Japan as it comes into contact with the rest of the world after its long and deep isolation during the feudal period.\u00a0We will also cover city planning of Tokyo that took place after WWII, and such topics as the 1964 Tokyo Olympics.\n\nA unique feature of this offering is that we will run it concurrently with the edX MOOC and two University of Tokyo MOOCs, Visualizing Postwar Tokyo and Four Faces of Contemporary Japanese Architecture, for much of the remainder of the class.\n",
+  "department_numbers": [
+    "21G",
+    "21H"
+  ],
+  "extra_course_numbers": "21H.250,CMS.874",
+  "primary_course_number": "21G.027",
+  "course_image_thumbnail": {
+    "content": "756e52a2-4492-962e-0c76-abd42a5d1638",
+    "website": "21g-027-asia-in-the-modern-world-images-representations-fall-2016"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "9788a8ed-1b9f-4115-b81e-c73979484291",
+  "site_short_id": "21g.027-fall-2016",
+  "site_url_path": "courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016",
+  "title": "Course Metadata"
+}

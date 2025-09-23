@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 0ce04e0d-f673-33e8-5ae2-262a3ecce7e0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6bd222ad-0040-9077-3be4-708b9040968f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 8b7f2410-4b2c-8d92-73f1-f280f861748c
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 1962f38d-1ac0-4418-a20c-3293425b981a
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
+- identifier: db5d9a23-97f4-bea6-d6f2-dd063fb1c99d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 433b5fa8-2a90-4b97-c06c-21fe8024b4a0
+  name: In-class Group Activities
+  pageRef: /pages/in-class-group-activities
+  weight: 60
+- identifier: 5d2fd698-b01a-def8-ac38-ec3072b1336d
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
+- identifier: 4d7d9296-ec45-fdca-8c2f-331b98e8cfcd
+  name: Unit
+  pageRef: /pages/unit
+  weight: 80
