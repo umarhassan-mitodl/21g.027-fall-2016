@@ -9,11 +9,11 @@ title: Study Materials
 uid: 1962f38d-1ac0-4418-a20c-3293425b981a
 ---
 
-\[VJx\] = {{% resource_link "b49d1ad1-f941-4ae6-8cf4-38b2726d056e" "Visualizing Japan MOOC" %}}
+\[VJx\] = [Visualizing Japan MOOC](https://www.edx.org/course/visualizing-japan-1850s-1930s-harvardx-mitx-vjx-2)
 
-\[VC\] = {{% resource_link "6773d163-1f77-49e0-90a1-135d78bfd19e" "Visualizing Cultures" %}}
+\[VC\] = [Visualizing Cultures](http://visualizingcultures.mit.edu)
 
-\[VPT\] = {{% resource_link "79901876-4d36-4318-9186-f2d784838d8d" "Visualizing Postwar Tokyo I - UTokyo MOOC" %}}
+\[VPT\] = [Visualizing Postwar Tokyo I - UTokyo MOOC](https://www.edx.org/course/visualizing-postwar-tokyo-part-1-utokyox-utokyo001x-1)
 
 {{< tableopen >}}
 {{< theadopen >}}

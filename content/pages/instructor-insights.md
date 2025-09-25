@@ -67,7 +67,7 @@ _In the following videos, Professor Shigeru Miyagawa describes various aspects o
 
 _Learn more! The following article from MIT News describes how Professor Miyagawa made use of the Visualizing Japan MOOC in flipping his classroom._
 
-- {{% resource_link "e176938a-ebe0-4044-b1e4-4654299c6924" "How a MOOC Can Benefit the Classroom" %}}
+- [How a MOOC Can Benefit the Classroom](http://news.mit.edu/2014/mooc-sees-its-greatest-impact-classroom-mit-1114)
 
 ## Curriculum Information
 
