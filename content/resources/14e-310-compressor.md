@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/91c5620fc8f6bb0bcf18110bcecb63dc_14E-310-compressor.jpg
 file_size: 11574
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

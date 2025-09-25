@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/e88a71cd3a9ba7a08c159ecd9d42fe9a_video_still.jpg
 file_size: 43322
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
