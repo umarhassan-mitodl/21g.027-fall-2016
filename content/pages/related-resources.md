@@ -9,26 +9,26 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 5d2fd698-b01a-def8-ac38-ec3072b1336d
 ---
-[VJx](https://www.edx.org/course/visualizing-japan-1850s-1930s-harvardx-mitx-vjx-2#.VAYUf0unmEw)
+{{% resource_link "8deab43f-3f63-4dd6-8435-5714b3996561" "VJx" %}}
 
-[Visualizing Cultures](http://visualizingcultures.mit.edu/)
+{{% resource_link "01e4df9b-5ef4-44b9-adf7-fc1ffe2fb5f5" "Visualizing Cultures" %}}
 
-[Visualizing Postwar Tokyo, Part 1](https://www.edx.org/course/visualizing-postwar-tokyo-part-1-utokyox-utokyo001x-1)
+{{% resource_link "44e390eb-c4d6-486a-8b54-00a3c681bba0" "Visualizing Postwar Tokyo, Part 1" %}}
 
-[Four Faces of Contemporary Japanese Architecture: Theory](https://www.edx.org/course/four-facets-contemporary-japanese-utokyox-utokyo004x)
+{{% resource_link "bd3e782b-f59e-44bc-bf2c-e7e6cb7882d0" "Four Faces of Contemporary Japanese Architecture: Theory" %}}
 
-[MIT News about the Visualizing Japan Class of Fall 2014](http://news.mit.edu/2014/mooc-sees-its-greatest-impact-classroom-mit-1114)
+{{% resource_link "27f2e0c9-71ae-4041-b4c2-a971880bb83b" "MIT News about the Visualizing Japan Class of Fall 2014" %}}
 
-[MIT News on VJx nominated for the Japan Prize](http://news.mit.edu/2015/visualizing-japan-mooc-nominated-for-japan-prize-0925)
+{{% resource_link "1bd70f33-dd39-4d83-be14-fc4192fa11a0" "MIT News on VJx nominated for the Japan Prize" %}}
 
-[Japan in Britannica](https://www.britannica.com/place/Japan)
+{{% resource_link "c822dc5c-827a-4919-be5b-2653f2bd8783" "Japan in Britannica" %}}
 
-[Imperialism in Asia](https://en.wikipedia.org/wiki/Imperialism_in_Asia)
+{{% resource_link "547d0e21-d927-47ad-8410-fd5ccab59da6" "Imperialism in Asia" %}}
 
-MGH. "[Japan Tokugawa Shogunate](https://www.youtube.com/watch?v=OjovMjPU9ug)." August 3, 2011. YouTube. (Tokugawa leyasu)
+MGH. "{{% resource_link "01356b9d-88ee-40b9-b901-fe5498aa29e3" "Japan Tokugawa Shogunate" %}}." August 3, 2011. YouTube. (Tokugawa leyasu)
 
-World of Warships. "[Naval Legends - Battle of Tsushima](https://www.youtube.com/watch?v=ink4S1adrhw)." July 17, 2015. YouTube. (Russo-Japanese War video \[17 minutes\])
+World of Warships. "{{% resource_link "c6fc29e0-4672-4cbe-9952-409656954212" "Naval Legends - Battle of Tsushima" %}}." July 17, 2015. YouTube. (Russo-Japanese War video \[17 minutes\])
 
-Benedict, Burton. "[International Exhibitions and National Identity](http://www.jstor.org/stable/3032792)." *Anthropology Today* 7, no. 3 (1991): 5–9.
+Benedict, Burton. "{{% resource_link "f1ca9041-4c4a-49b9-bd1c-ea107950d9cd" "International Exhibitions and National Identity" %}}." *Anthropology Today* 7, no. 3 (1991): 5–9.
 
-Harvard GSD. "[Kenzo Tange's Yoyogi Olympic Arena](https://www.youtube.com/watch?v=hbeo2nvaNjA)." July 30, 2012. YouTube. (Yoyogi Olympic National Stadium \[10 minutes\])
+Harvard GSD. "{{% resource_link "350150d1-7837-46bf-bb2b-284916af3899" "Kenzo Tange's Yoyogi Olympic Arena" %}}." July 30, 2012. YouTube. (Yoyogi Olympic National Stadium \[10 minutes\])
