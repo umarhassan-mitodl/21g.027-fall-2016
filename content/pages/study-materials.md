@@ -3,19 +3,17 @@ content_type: page
 description: 'This page provides the study materials used in the MIT course 21G.027
   Asia in the Modern World: Images and Representations, Fall 2016, taught by Professor
   Shigeru Miyagawa.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 1962f38d-1ac0-4418-a20c-3293425b981a
 ---
 
-\[VJx\] = [Visualizing Japan MOOC](https://www.edx.org/course/visualizing-japan-1850s-1930s-harvardx-mitx-vjx-2)
+\[VJx\] = {{% resource_link "89db6331-393e-4351-ae18-0f828099be8d" "Visualizing Japan MOOC" %}}
 
-\[VC\] = [Visualizing Cultures](http://visualizingcultures.mit.edu)
+\[VC\] = {{% resource_link "3fa9e2f3-b8f9-426f-9913-4fca0363357b" "Visualizing Cultures" %}}
 
-\[VPT\] = [Visualizing Postwar Tokyo I - UTokyo MOOC](https://www.edx.org/course/visualizing-postwar-tokyo-part-1-utokyox-utokyo001x-1)
+\[VPT\] = {{% resource_link "44e390eb-c4d6-486a-8b54-00a3c681bba0" "Visualizing Postwar Tokyo I - UTokyo MOOC" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -3,8 +3,6 @@ content_type: page
 description: 'This page provides the course policy for the MIT course 21G.027 Asia
   in the Modern World: Images and Representations, Fall 2016, taught by Professor
   Shigeru Miyagawa.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -67,7 +65,7 @@ _You are expected to attend each class; if you can't make it, contact the instru
 Readings
 --------
 
-Unless otherwise noted, all readings are from the [MOOC](https://www.edx.org/course/visualizing-japan-1850s-1930s-harvardx-mitx-vjx-2) or [Visualizing Cultures](http://visualizingcultures.mit.edu).
+Unless otherwise noted, all readings are from the {{% resource_link "89db6331-393e-4351-ae18-0f828099be8d" "MOOC" %}} or {{% resource_link "3fa9e2f3-b8f9-426f-9913-4fca0363357b" "Visualizing Cultures" %}}.
 
 Grading
 -------
